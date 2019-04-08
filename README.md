@@ -1,2 +1,2 @@
 # github.io
-I AM HUANGWEI 
+HUANGWEI 
